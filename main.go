@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "mymod/cmd"
+import "github.com/aahemm/container-engine/cmd"
 
 func main() {
 	cmd.Execute()

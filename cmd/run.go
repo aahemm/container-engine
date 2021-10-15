@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"mymod/pkg/container"
+	"github.com/aahemm/container-engine/pkg/container"
 
 	"github.com/spf13/cobra"
 )
